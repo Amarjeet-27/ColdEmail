@@ -12,7 +12,7 @@ This platform leverages Google Gemini API to generate context-aware, personalize
 
 🧠 Generate personalized cold emails using LLM (Gemini API)
 
-🎯 Dynamic tone selection (formal, friendly, etc.)
+🎯 Dynamic tone selection (formal, friendly, etc)
 
 🏢 Enhanced personalization using company-specific context
 
